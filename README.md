@@ -12,7 +12,7 @@
 8) DenCode - https://dencode.com/
 9) Aperi'Solve - https://www.aperisolve.com/
 
-### Learning
+### Learning and Training
 1) HackTheBox - https://www.hackthebox.com/
 2) TryHackMe - https://tryhackme.com/
 3) Offensive Security Play Labs - https://portal.offsec.com/labs/play
