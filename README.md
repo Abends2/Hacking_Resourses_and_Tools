@@ -16,10 +16,12 @@
 1) HackTheBox - https://www.hackthebox.com/
 2) TryHackMe - https://tryhackme.com/
 3) Offensive Security Play Labs - https://portal.offsec.com/labs/play
-4) Root-Me - https://www.root-me.org/
-5) Crackmes - https://www.crackmes.one/
-6) SQLAcademy - https://sql-academy.org/ru
-7) SPBCTF CTF Training Platform - https://forkbomb.ru/
-8) PortSwigger Web Security Academy - https://portswigger.net/web-security
-9) PicoCTF - https://picoctf.com
-10) Codeby Game - https://codeby.games/
+4) Vulnhub - https://www.vulnhub.com/
+5) Root-Me - https://www.root-me.org/
+6) Crackmes - https://www.crackmes.one/
+7) SQLAcademy - https://sql-academy.org/ru
+8) SPBCTF CTF Training Platform - https://forkbomb.ru/
+9) PortSwigger Web Security Academy - https://portswigger.net/web-security
+10) PicoCTF - https://picoctf.com
+11) Codeby Game - https://codeby.games/
+12) CTFlearn - https://ctflearn.com/
