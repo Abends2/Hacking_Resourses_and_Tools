@@ -11,6 +11,7 @@
 7) Dcode - https://www.dcode.fr/
 8) DenCode - https://dencode.com/
 9) Aperi'Solve - https://www.aperisolve.com/
+10) Web Tools - https://rumkin.com/tools/
 
 ### Learning and Training
 1) HackTheBox - https://www.hackthebox.com/
@@ -26,3 +27,5 @@
 11) Codeby Game - https://codeby.games/
 12) CTFlearn - https://ctflearn.com/
 13) Prompt.ml - https://prompt.ml/0
+14) ringzer0team - https://ringzer0team.com/
+15) Reversing.Kr - http://www.reversing.kr/
